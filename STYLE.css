@@ -1,0 +1,38 @@
+body{
+  background-color: #615231;
+}
+#Keeper_image{
+  text-align: center;
+}
+.Iten_Shop{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+
+  
+}
+.backgroud_Shop{
+  position: relative;
+  background-size: 150px;
+  width: 300px;
+  height: 200px;
+  display: block;
+  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #3d2e0f;
+  
+}
+/*#More{
+  width: 300px;
+  height: 200px;
+}
+#Mr{
+  width: 300px;
+  height: 200px;
+  
+}
+#Bag{
+  width: 300px;
+  height: 200px;
+}*/
